@@ -1,1 +1,1 @@
-# sternik-kawiarnia
+GOF-decorator
